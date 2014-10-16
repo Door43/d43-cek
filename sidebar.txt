@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cek:home|Door43 (cek)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cek|d43-cek repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cek/archive/master.zip|d43-cek.zip]]
+
+**Recent Changes**
+{{changes>ns = cek}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cek|Ethnologue data]]
+
